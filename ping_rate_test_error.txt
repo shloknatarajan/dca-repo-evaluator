@@ -1,0 +1,1 @@
+1k error: Command '['git', '-C', '1k-sparse-clone-ping', 'sparse-checkout', '-q', 'set', 'tasks/tasks_copy_1/']' returned non-zero exit status 129.
